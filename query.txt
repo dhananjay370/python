@@ -1,0 +1,1 @@
+ insert into quizgame (question,option1,option2,option3,option4,correct_option)values('What is the most widely used programming language for Artificial Intelligence?','A. Java','B. Python','C. C++','D. Ruby',2);
